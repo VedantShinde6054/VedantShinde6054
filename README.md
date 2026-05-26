@@ -106,6 +106,4 @@ IoT-based posture monitoring & correction system
 
 ### ✨ “Code. Build. Learn. Repeat.” ✨
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=for-the-badge)
-
 </div>
